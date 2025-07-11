@@ -1,18 +1,11 @@
-## Hola Soy Ismael Freddy Nina Mendoza (Freddo 😄)
+# ¡Hola! 👋 Soy Ismael Freddy <3
 
-🎓 Estudiante de Ingenieria en Sistemas 
-💡 "No basta con ser bueno, debo ser perfecto"
-<!--
-**FreddyNM/FreddyNM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas  
+💻 Apasionado por la tecnología, el desarrollo web y los videojuegos  
+✨ "El futuro pertenece a quienes creen en la belleza de sus sueños"
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge)
