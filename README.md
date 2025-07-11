@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>¡Hola! 👋 Soy Ismael Freddy <3</h1>
+  <h1>¡Hola! 👋 Soy Ismael Freddy Nina Mendoza (Freddo)</h1>
   <strong>🎓 Estudiante de Ingeniería en Sistemas</strong><br>
   💻 Apasionado por la tecnología, el desarrollo web y los videojuegos <br>
   ✨ "El futuro pertenece a quienes creen en la belleza de sus sueños"
